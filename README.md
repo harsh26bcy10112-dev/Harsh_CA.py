@@ -1,49 +1,55 @@
- Harsh CA
+HARSH CA
 
-Harsh CA is a simple Python-based personal finance program created as a learning project. It allows a user to create an account, log in, perform calculations, record lending and savings information, and keep track of expenses.
+## About the Project
 
- Features
+This is a simple Python based Personal Finance Management System. I made this project to practice basic Python programming concepts and to manage some common finance related tasks from the terminal.
 
-- Account creation with username and password
-- Login verification
-- Basic calculator
-- Lending money records
-- Savings records
-- Savings and expense total
-- Monthly expense tracking
-- Simple menu-based interface
+The program allows the user to create an account, log in and use different options for calculations, lending money, savings and monthly expenses.
 
- Technologies Used
+## Features
+
+The program provides the following options:
+
+1. Account creation and login
+2. Basic calculator
+3. Lending money records
+4. Savings tracking
+5. Total budget and expense calculation
+6. Monthly expense tracking
+
+## Technologies Used
 
 - Python 3
+- Command Line / Terminal
 
- Python Concepts Used
+## Python Concepts Used
 
-This project uses basic Python concepts such as:
+The project uses basic Python concepts such as:
 
 - Variables
 - Input and output
-- if-elif-else statements
+- if-else statements
 - while loops
-- for loops
 - Lists
 - Dictionaries
 - Tuples
 - Arithmetic operators
-- User input handling
+- Functions/expressions
+- Type conversion
 
- Requirements
+## Requirements
 
-- Python 3.x
-- No external Python libraries are required.
+Python 3 must be installed on the computer.
 
-  Setup
+No external Python libraries are required for this project.
 
- 1. Install Python
+## Setup
 
-Download and install Python 3.x on your computer.
+### Step 1: Install Python
 
-After installation, check whether Python is installed by running:
+Download and install Python 3 if it is not already installed.
+
+To check whether Python is installed, open the terminal and run:
 
 ```bash
 python --version
